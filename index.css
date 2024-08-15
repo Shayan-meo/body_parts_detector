@@ -1,0 +1,29 @@
+*{
+    background-color:blueviolet;
+    font-family: Arial, Helvetica, sans-serif
+}
+#hading{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#pera{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#main{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#btn{
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 50px;
+    background-color: rgb(229, 80, 229)
+}
